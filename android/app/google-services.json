@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587638577940",
+    "firebase_url": "https://corona-updater-nepal-28e35.firebaseio.com",
+    "project_id": "corona-updater-nepal-28e35",
+    "storage_bucket": "corona-updater-nepal-28e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587638577940:android:b42ee5cf5a288256af4001",
+        "android_client_info": {
+          "package_name": "com.easternapp.corona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587638577940-lee7s2qa92gj8bno0gohbt3qcka60u1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLBT1Sf7ZRu3A-QaRkdfiNztnsRxtOQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587638577940-lee7s2qa92gj8bno0gohbt3qcka60u1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587638577940-qjni2v6vspj2qtreb6lev2l9mfiak194.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easternapp.corona"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8220783705536353~9498693910"
+    }
+  ],
+  "configuration_version": "1"
+}
